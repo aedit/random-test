@@ -1,0 +1,40 @@
+[
+  {
+    "ticketType": "Community Support Tickets",
+    "id": "community-support-tickets",
+    "questions": [
+      {
+        "question": "Who can apply for this ticket?",
+        "answer": "Anyone and Everyone can apply for this ticket."
+      },
+      {
+        "question": "Why should I apply for this ticket?",
+        "answer": "You get priority access to Devfest Indore 2023, including Food and Swags. Additonally, you get open access to all the events organised by GDG Indore, GDG Cloud Indore, TFUG Indore and WTM Indore for the next 6 months."
+      },
+      {
+        "question": "What is the cost for this ticket?",
+        "answer": "This is a donation based ticket. You can avail it any amount greater than ₹500"
+      }
+    ]
+  },
+  {
+    "ticketType": "Early Bird Tickets",
+    "id": "early-bird-tickets",
+    "questions": []
+  },
+  {
+    "ticketType": "General Access Tickets",
+    "id": "general-access-tickets",
+    "questions": []
+  },
+  {
+    "ticketType": "Professionals Tickets",
+    "id": "professionals-tickets",
+    "questions": []
+  },
+  {
+    "ticketType": "Startup Founders Tickets",
+    "id": "startup-founders-tickets",
+    "questions": []
+  }
+]
